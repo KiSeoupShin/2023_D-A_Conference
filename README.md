@@ -1,5 +1,5 @@
 # 2023 D&A Conference
-Video Inpainting을 활용한 영상 내 특정 객체 제거
+**Video Inpainting을 활용한 영상 내 특정 객체 제거**
 
 <br/>
 
